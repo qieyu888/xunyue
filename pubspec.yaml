@@ -1,7 +1,7 @@
 name: xunyue
 description: "寻约 - 创作者互助社区"
 publish_to: 'none'
-version: 1.0.1+2
+version: 1.0.2+3
 
 environment:
   sdk: ^3.10.4
